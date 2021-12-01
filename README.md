@@ -1,2 +1,2 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+Project from the course: Responsive Layouts - Working with Mobile layouts, from Alura
